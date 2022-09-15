@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <style android:name="AppTheme.NoActionBar">
+        <item android:name="windowActionBar">false</item>
+        <item android:name="windowNoTitle">true</item>
+    </style>
+</selector>
